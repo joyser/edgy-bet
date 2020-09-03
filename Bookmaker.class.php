@@ -1,0 +1,8 @@
+<?
+	
+	class Bookmaker extends Model{
+		
+		
+		
+		
+	}

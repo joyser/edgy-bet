@@ -1,0 +1,7 @@
+<?
+	
+	class BetfairVenue extends Model{
+		
+		
+		
+	}

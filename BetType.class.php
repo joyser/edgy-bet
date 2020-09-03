@@ -1,0 +1,8 @@
+<?
+	
+	class BetType extends Model{
+		
+		
+		
+		
+	}

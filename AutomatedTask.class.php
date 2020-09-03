@@ -1,0 +1,7 @@
+<?
+	
+	class AutomatedTask extends Model{
+		
+		
+		
+	}
