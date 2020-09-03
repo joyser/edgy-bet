@@ -4,7 +4,7 @@ Edgy-bet is a program written in PHP for detecting arbitrage between high street
 The code has not been alive in 3 years and needs to extensive de-rusting to work.
 That said, the logic and maths are sound and may help others on their endeavours (If you care to dig it out of the code)
 
-In order to get it up and running you'll need to:
+In order to get the UI and automated scraping up and running you'll need to:
 
 1) Update oddsChecker.class.php
 2) get a betfair API key to fill in betfair.class.php
